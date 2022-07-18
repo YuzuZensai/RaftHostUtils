@@ -1,0 +1,14 @@
+{
+  "name": "RaftHostUtils",
+  "author": "",
+  "description": "",
+  "version": "1.0",
+  "license": "",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
