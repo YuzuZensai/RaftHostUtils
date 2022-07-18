@@ -1,9 +1,9 @@
 {
   "name": "RaftHostUtils",
-  "author": "",
+  "author": "YuzuZensai <contact@kirameki.cafe>",
   "description": "",
   "version": "1.0",
-  "license": "",
+  "license": "GPL-3.0",
   "icon": "icon.png",
   "banner": "banner.jpg",
   "gameVersion": "1.0",
