@@ -1,7 +1,7 @@
 # 🦈 RaftHostUtils
 Raft mod with useful features for server host
 
-## ✨ Feature
+## ✨ Features
 
 - Bruce won't eat the raft when there're no one online
 - Time will be frozen when there're no one online
